@@ -10,4 +10,4 @@ Projeto Gerador de Numero
 
 
 ## Baixar o APK
-[Clique para Baixar](https://github.com/LuKz2/MegaSena/blob/main/.github/GerarNumero.apk)
+[Clique para Baixar](./.github/GerarNumero.apk)
